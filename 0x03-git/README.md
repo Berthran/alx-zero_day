@@ -1,1 +1,1 @@
-This is the directory for git tasks
+This is the directory for git tasks and folders
